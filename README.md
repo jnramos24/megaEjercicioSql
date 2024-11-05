@@ -25,7 +25,7 @@ El director manifestó que los cursos presentes serán:
 - Armónica Intermedio
 - Armónica Avanzado
 
-El frontend para funcionar necesita las siguientes consultas:
+#### El frontend para funcionar necesita las siguientes consultas:
 
 1. Listar todos los alumnos inscriptos en el curso de "Guitarra Intermedio".
 2. Mostrar todas las inscripciones realizadas después del 1 de enero de 2024.
@@ -38,7 +38,7 @@ El frontend para funcionar necesita las siguientes consultas:
 9. Obtener los nombres de los cursos que tienen al menos un alumno mayor de 20 años inscripto.
 10. Listar el nombre y apellido de los alumnos junto con los nombres de los cursos en los que están inscriptos, pero solo para aquellos que se inscribieron en 2024.
 
-    ### Importante para la entrega:
+### Importante para la entrega:
 - El formato puede ser en (.docx), (.pdf) o (.sql)
 - La entrega es a través de mail al correo jnicolas.ramos10@gmail.com, y el asunto debe respetar este formato:
 
